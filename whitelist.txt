@@ -88,3 +88,4 @@
 @@||rose.ixbt.com^$important
 @@||app.getresponse.com^$important
 @@||developers.google.com^$important
+@@||googleapis.com^$important
