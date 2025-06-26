@@ -89,3 +89,6 @@
 @@||app.getresponse.com^$important
 @@||developers.google.com^$important
 @@||googleapis.com^$important
+@@||vseigru.net^
+@@||nnmstatic.win^
+@@||login.microsoftonline.com^$important
